@@ -184,9 +184,9 @@ DECLARE @start_time DATETIME, @end_time DATETIME, @batch_start_time DATETIME, @b
 	 -- Loading erp_cust_az12
 
 	SET @start_time = GETDATE();
-	PRINT '>> Truncating Table: silver.erp_cust_az12';
-	TRUNCATE TABLE silver.erp_cust_az12;
-	PRINT '>> Inserting Data Into: silver.erp_cust_az12';
+	PRINT '>> Truncating Table: silver.erp_loc_a101';
+	TRUNCATE TABLE silver.erp_loc_a101 ;
+	PRINT '>> Inserting Data Into: silver.erp_loc_a101';
 	INSERT INTO silver.erp_loc_a101 (
 	cid,
 	cntry

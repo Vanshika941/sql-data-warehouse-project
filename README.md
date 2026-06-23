@@ -3,6 +3,7 @@ SQL Data Warehouse Project
 Overview
 
 This project demonstrates the design and implementation of a SQL Data Warehouse for analytical reporting. The warehouse integrates data from multiple sources, transforms raw data into a structured format, and enables efficient business analysis.
+<img width="1920" height="1080" alt="Screenshot (38)" src="https://github.com/user-attachments/assets/5c960855-a4e9-48df-bbdc-5aa0de70e98f" />
 
 Objectives
 
@@ -43,3 +44,8 @@ Key Insights
 Author
 
 Vanshika Verma
+
+
+<img width="770" height="887" alt="Screenshot 2026-06-23 125845" src="https://github.com/user-attachments/assets/995d4b78-e230-42b8-a022-a9c3f3e0219a" />
+
+
